@@ -1,4 +1,3 @@
-```markdown
 # Wasealex
 
 ## About Me
@@ -22,4 +21,3 @@ Hello! I'm Wasealex, a passionate developer with a keen interest in software eng
 - **Email:** [your-email@example.com](mailto:wasealex@gmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/dr-wastna-alemayehu-b560a0165)
 - Feel free to reach out if you want to collaborate on a project or just want to connect!
-```
